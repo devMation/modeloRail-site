@@ -1,0 +1,21 @@
+/* h1 */
+@font-face {
+    font-family: "Kenia-Regular";
+    src: url("../font/Kenia/Kenia-Regular.ttf");
+}
+
+/* h2/h6 */
+@font-face {
+    font-family: "LaBelleAurore-Regular";
+    src: url("../font/La_Belle_Aurore/LaBelleAurore-Regular.ttf");
+}
+
+/* <p> */
+@font-face {
+    font-family: "JosefinSans-Italic-VariableFont_wght";
+    src: url('../font/Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf');
+}
+
+
+
+ 
